@@ -13,11 +13,11 @@ and run in cmd to setup lfs
 ```
 git lfs install 
 ```
-Then clone the repository containing LaMini-Flan-T5-248M which is the LLM we're using
+Then clone the repository containing LaMini-Flan-T5-248M which is the LLM we're using.
 ```
 git clone https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M
 ```
-Make sure than LaMini-Flan-T5-248M is in the same directory as the cloned project.
+Make sure that LaMini-Flan-T5-248M is in the same directory as the cloned project.
 ## Running
 Now to run the app , run the below code
 ```
