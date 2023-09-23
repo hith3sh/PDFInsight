@@ -26,6 +26,6 @@ streamlit run app.py
 Upload a pdf file and see the summarization :)
 ![pdf](https://github.com/hith3sh/PDFInsight/assets/83839061/1254f408-e0be-4723-a2b4-85c02267b272)
 
-![pdf](https://github.com/hith3sh/PDFInsight/assets/83839061/3b082430-6b44-47de-96a8-9feed6b63246)
+![summary](https://github.com/hith3sh/PDFInsight/assets/83839061/025e3303-041b-4ebe-ab15-18f08017cbc1)
 
 
